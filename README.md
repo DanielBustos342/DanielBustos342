@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Mi nombre es Daniel Esteban Bustos<br><br>Tambien conocido como DanielBustos342 en GibHub<br><br>¿Quien soy?<br>Soy un programador FullStack orientado al diseño Fron-end y creacion de material visual<br><br>
+Hola! Mi nombre es Daniel Esteban Bustos<br><br>Tambien conocido como DanielBustos342 en GibHub<br><br>¿Quien soy?<br>Soy Desarrollador Web FullStack Jr<br><br>
 
 
 ## 🌐 Socials:
